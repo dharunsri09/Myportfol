@@ -1,6 +1,7 @@
 import React from "react";
 import Myimg from '../assets/heroImage.jpg'
 import {MdKeyboardArrowRight} from 'react-icons/md'
+import { Link } from "react-scroll";
 
 const Home =()=> {
     return (
@@ -16,12 +17,14 @@ const Home =()=> {
                         As for my android apps I'have developed in both kotlin and java in android studio.
                     </p>
                     <div>
+                    <Link to="projects" smooth duration={500}>
                         <button className="group text-white w-fit px-6 py-3 my-2 flex item-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                             Projects
                             <span className="group-hover:rotate-90 duration-300">
                                 <MdKeyboardArrowRight size={25}  className="ml-1 "></MdKeyboardArrowRight>
                             </span>
                         </button>
+                    </Link>
                     </div>
                 </div>
                 <div>
