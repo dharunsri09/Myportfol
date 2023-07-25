@@ -1,10 +1,9 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import arrayDestruct from "../assets/portfolio/reactParallax.png";
+import navbar from "../assets/portfolio/android1.jpg";
+import reactParallax from "../assets/portfolio/android2.jpg";
+import reactSmooth from "../assets/portfolio/Screenshot (760).png";
+
 const Project=()=>{
     const portfolios = [
         {
@@ -23,19 +22,11 @@ const Project=()=>{
           id: 4,
           src: reactSmooth,
         },
-        {
-          id: 5,
-          src: installNode,
-        },
-        {
-          id: 6,
-          src: reactWeather,
-        },
       ];
     
       return (
         <div
-          name="portfolio"
+          name="projects"
           className="bg-gradient-to-b from-black to-gray-800 w-full md:h-screen text-white"
         >
           <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">

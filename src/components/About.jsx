@@ -27,5 +27,4 @@ Thank you for visiting, and I look forward to connecting with you!
     </div>
   );
 };
-
-export default About;
+export default About
