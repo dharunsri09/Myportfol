@@ -27,6 +27,11 @@ const Project=()=>{
           src: reactSmooth,
           lin:"https://github.com/dharunsri09/covidvac",
         },
+         {
+          id: 5,
+          src: reactSmooth,
+          lin:"https://dharunsri09.netlify.app/",
+        }
       ];
     
       return (
