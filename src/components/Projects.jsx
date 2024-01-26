@@ -3,7 +3,7 @@ import arrayDestruct from "../assets/portfolio/reactParallax.png";
 import navbar from "../assets/portfolio/android1.jpg";
 import reactParallax from "../assets/portfolio/android2.jpg";
 import reactSmooth from "../assets/portfolio/Screenshot (760).png";
-
+import reactSmooth1 from "../assets/portfolio/Screenshot (854).png";
 const Project=()=>{
     const portfolios = [
         {
@@ -29,7 +29,7 @@ const Project=()=>{
         },
          {
           id: 5,
-          src: reactSmooth,
+          src: reactSmooth1,
           lin:"https://dharunsri09.netlify.app/",
         }
       ];
