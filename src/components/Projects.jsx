@@ -25,7 +25,7 @@ const Project=()=>{
         {
           id: 4,
           src: reactSmooth,
-          lin:"https://github.com/dharunsri09/covidvac",
+          lin:"http://dharun09.pythonanywhere.com/",
         },
          {
           id: 5,
