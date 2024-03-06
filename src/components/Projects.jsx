@@ -31,7 +31,10 @@ const Project=()=>{
           id: 5,
           src: reactSmooth1,
           lin:"https://dharunsri09.netlify.app/",
-        }
+        },
+        { id: 6,
+          src: "https://private-user-images.githubusercontent.com/115633964/310269883-cee71cfe-8ac3-49ca-9359-3da58ecc643b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3MDMyNTUsIm5iZiI6MTcwOTcwMjk1NSwicGF0aCI6Ii8xMTU2MzM5NjQvMzEwMjY5ODgzLWNlZTcxY2ZlLThhYzMtNDljYS05MzU5LTNkYTU4ZWNjNjQzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNlQwNTI5MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTlkOGFiOTEyZjlhYjE5NjYwODk4Y2FkNDg0ODM4M2MwYzE3MGI5NmFhZTczODAwNDU4ZTQzMDdlY2Q5NmViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XohtzkwGxwfurQRN660Xl4hr7Mfjmpd6cRcoRe1sryg",
+          lin:"https://github.com/dharunsri09/Depression_Detection",
       ];
     
       return (
